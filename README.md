@@ -1,4 +1,4 @@
-# hysteria-install ⚡
+slowudp/install_server.sh# hysteria-install ⚡
 
 ### Hysteria is a powerful, lightning fast and censorship resistant proxy.
 
